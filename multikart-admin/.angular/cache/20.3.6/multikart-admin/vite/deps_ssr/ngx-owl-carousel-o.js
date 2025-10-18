@@ -1,13 +1,13 @@
 import { createRequire } from 'module';const require = createRequire(import.meta.url);
 import "./chunk-EJV3XSHK.js";
 import {
+  toObservable
+} from "./chunk-PO7L5EF2.js";
+import {
   ActivatedRoute,
   NavigationEnd,
   Router
 } from "./chunk-7RYJR542.js";
-import {
-  toObservable
-} from "./chunk-PO7L5EF2.js";
 import "./chunk-U2CDTR4S.js";
 import "./chunk-G654WWEL.js";
 import {
